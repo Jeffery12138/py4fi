@@ -1,3 +1,5 @@
+Record the learning process of Python for Finace
+
 # Python for Finance (2nd ed., O'Reilly)
 
 This repository provides all Python codes and Jupyter Notebooks of the book _Python for Finance -- Mastering Data-Driven Finance_ (2nd edition) by Yves Hilpisch.
