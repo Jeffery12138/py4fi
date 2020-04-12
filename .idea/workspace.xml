@@ -3,7 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="23b2e3a4-266f-4767-8c6b-aa2caad6999f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ch06/06_object_orientation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/ch06/06_object_orientation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ch07/07_visualization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/ch07/07_visualization.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ch08/08_financial_time_series.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/ch08/08_financial_time_series.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_07.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_07.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_08.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_08.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_09.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_09.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_10.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_11.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_12.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_13.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_14.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_15.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_16.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_17.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_18.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_18.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +39,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Vector">
+  <component name="RunManager" selected="Python.financial_time_series">
     <configuration name="AAPL_trading_strategy (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py4fi2nd-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,6 +107,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="financial_time_series" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py4fi2nd-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ch08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ch08/financial_time_series.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="shorter_time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py4fi2nd-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,34 +149,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="spx_volatility" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py4fi2nd-master" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ch01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="H:\py4fi\py4fi2nd-master\py4fi2nd-master\code\ch01\spx_volatility.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.financial_time_series" />
         <item itemvalue="Python.Vector" />
         <item itemvalue="Python.AAPL_trading_strategy (1)" />
         <item itemvalue="Python.AAPL_trading_strategy" />
         <item itemvalue="Python.shorter_time" />
-        <item itemvalue="Python.spx_volatility" />
       </list>
     </recent_temporary>
   </component>
@@ -159,26 +173,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="672" height="2" key="GridCell.Tab.0.bottom" timestamp="1586671128117">
+    <state width="1345" height="292" key="GridCell.Tab.0.bottom" timestamp="1586702369713">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="672" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586671128117" />
-    <state width="672" height="2" key="GridCell.Tab.0.center" timestamp="1586671128116">
+    <state width="1345" height="292" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586702369713" />
+    <state width="1345" height="292" key="GridCell.Tab.0.center" timestamp="1586702369713">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="672" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586671128116" />
-    <state width="672" height="2" key="GridCell.Tab.0.left" timestamp="1586671128116">
+    <state width="1345" height="292" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586702369713" />
+    <state width="1345" height="292" key="GridCell.Tab.0.left" timestamp="1586702369713">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="672" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586671128116" />
-    <state width="672" height="2" key="GridCell.Tab.0.right" timestamp="1586671128116">
+    <state width="1345" height="292" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586702369713" />
+    <state width="1345" height="292" key="GridCell.Tab.0.right" timestamp="1586702369713">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="672" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586671128116" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1586659970198">
+    <state width="1345" height="292" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586702369713" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1586698250762">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586659970198" />
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586698250762" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586177658475">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
