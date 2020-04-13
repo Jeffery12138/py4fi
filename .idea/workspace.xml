@@ -3,20 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="23b2e3a4-266f-4767-8c6b-aa2caad6999f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ch07/07_visualization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/ch07/07_visualization.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ch08/08_financial_time_series.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/ch08/08_financial_time_series.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_07.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_07.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_08.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_08.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_09.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_09.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_10.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_11.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_12.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_13.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_14.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_15.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_15.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_16.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_17.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_17.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ch07/mpl_18.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ch07/mpl_18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ch08/financial_time_series.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ch08/financial_time_series.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a8zjx08iZyyH3oLmWJwLm64wWN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.financial_time_series">
+  <component name="RunManager" selected="Python.rolling statistics">
     <configuration name="AAPL_trading_strategy (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py4fi2nd-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shorter_time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="rolling statistics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py4fi2nd-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ch01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ch08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ch01/shorter_time.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ch08/rolling statistics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rolling statistics" />
         <item itemvalue="Python.financial_time_series" />
         <item itemvalue="Python.Vector" />
         <item itemvalue="Python.AAPL_trading_strategy (1)" />
         <item itemvalue="Python.AAPL_trading_strategy" />
-        <item itemvalue="Python.shorter_time" />
       </list>
     </recent_temporary>
   </component>
@@ -173,22 +163,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="292" key="GridCell.Tab.0.bottom" timestamp="1586702369713">
+    <state width="1345" height="83" key="GridCell.Tab.0.bottom" timestamp="1586789480568">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="292" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586702369713" />
-    <state width="1345" height="292" key="GridCell.Tab.0.center" timestamp="1586702369713">
+    <state width="1345" height="83" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586789480568" />
+    <state width="1345" height="83" key="GridCell.Tab.0.center" timestamp="1586789480568">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="292" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586702369713" />
-    <state width="1345" height="292" key="GridCell.Tab.0.left" timestamp="1586702369713">
+    <state width="1345" height="83" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586789480568" />
+    <state width="1345" height="83" key="GridCell.Tab.0.left" timestamp="1586789480568">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="292" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586702369713" />
-    <state width="1345" height="292" key="GridCell.Tab.0.right" timestamp="1586702369713">
+    <state width="1345" height="83" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586789480568" />
+    <state width="1345" height="83" key="GridCell.Tab.0.right" timestamp="1586789480568">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="292" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586702369713" />
+    <state width="1345" height="83" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586789480568" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1586698250762">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

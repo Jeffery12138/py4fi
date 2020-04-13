@@ -46,8 +46,22 @@ instruments = ['Apple Stock', 'Microsoft Stock', 'Intel Stock', 'Amazon Stock', 
 # plt.savefig(fig_path+'fts_02.png')
 # plt.show()
 rets = np.log(data / data.shift(1))  # 连续时间报酬率
-print(rets.head().round(3))
-rets.cumsum().apply(np.exp).plot(figsize=(10, 6))  # P1 = P0 * exp(R)，当P0=1时，P1=exp(R)
-print(rets.cumsum().apply(np.exp))
-# plt.savefig(fig_path+'fts_03.png')
+# print(rets.head().round(3))
+# rets.cumsum().apply(np.exp).plot(figsize=(10, 6))  # P1 = P0 * exp(R)，当P0=1时，P1=exp(R)
+# print(rets.cumsum().apply(np.exp))
+# # plt.savefig(fig_path+'fts_03.png')
+# plt.show()
+
+# Resampling: To be financially consistent, make sure to use the right label(index value)
+# and in general the last available data point in the interval.
+
+print(data.resample('1w', label='right').last().head())
+# 1w = 1 week label = right 时间取右标签 2010-01-03----2010-01-09取为2020-01-10
+
+print(data.resample('1m', label='right').last().head())
+# 1m = 1 month label = right 时间取右标签 2010-01-01----2010-01-31取为2020-01-31
+# 5分钟 label取左端点 9：00----9:04取9:00; 9:05----9:09取9:05
+
+rets.cumsum().apply(np.exp).resample('1m', label='right').last().plot(figsize=(10, 6))
+plt.savefig(fig_path+'fts_04.png')
 plt.show()
