@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="23b2e3a4-266f-4767-8c6b-aa2caad6999f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ch08/08_financial_time_series.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/ch08/08_financial_time_series.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ch08/rolling statistics.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ch08/rolling statistics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ch08fts_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ch08/Regression Analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ch08/Regression Analysis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +33,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Regression Analysis">
-    <configuration name="AAPL_trading_strategy (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Reading and Writing Text Files">
+    <configuration name="Basic I&amp;O with Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py4fi2nd-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,11 +42,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ch01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ch09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ch01/AAPL_trading_strategy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ch09/Basic I&amp;O with Python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="High Frequency Data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py4fi2nd-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ch08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ch08/High Frequency Data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Reading and Writing Text Files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py4fi2nd-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ch09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ch09/Reading and Writing Text Files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,48 +110,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ch08/Regression Analysis.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Vector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py4fi2nd-master" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ch06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ch06/Vector.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="financial_time_series" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py4fi2nd-master" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ch08" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ch08/financial_time_series.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Reading and Writing Text Files" />
+        <item itemvalue="Python.Basic I&amp;O with Python" />
+        <item itemvalue="Python.High Frequency Data" />
         <item itemvalue="Python.Regression Analysis" />
         <item itemvalue="Python.rolling statistics" />
-        <item itemvalue="Python.financial_time_series" />
-        <item itemvalue="Python.Vector" />
-        <item itemvalue="Python.AAPL_trading_strategy (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -165,29 +163,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="30" key="GridCell.Tab.0.bottom" timestamp="1586871237505">
+    <state x="423" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586959740940">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="30" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586871237505" />
-    <state width="1345" height="30" key="GridCell.Tab.0.center" timestamp="1586871237505">
+    <state x="423" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1586959740940" />
+    <state width="1345" height="397" key="GridCell.Tab.0.bottom" timestamp="1586962145907">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="30" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586871237505" />
-    <state width="1345" height="30" key="GridCell.Tab.0.left" timestamp="1586871237505">
+    <state width="1345" height="397" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586962145907" />
+    <state width="1345" height="397" key="GridCell.Tab.0.center" timestamp="1586962145907">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="30" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586871237505" />
-    <state width="1345" height="30" key="GridCell.Tab.0.right" timestamp="1586871237505">
+    <state width="1345" height="397" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586962145907" />
+    <state width="1345" height="397" key="GridCell.Tab.0.left" timestamp="1586962145907">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="30" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586871237505" />
+    <state width="1345" height="397" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586962145907" />
+    <state width="1345" height="397" key="GridCell.Tab.0.right" timestamp="1586962145907">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="397" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586962145907" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1586698250762">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586698250762" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586870619350">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586960144025">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586870619350" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586960144025" />
   </component>
 </project>

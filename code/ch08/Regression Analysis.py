@@ -36,8 +36,9 @@ plt.savefig(fig_path+'fts_12.png')
 print(rets.corr().iloc[0, 1])
 # ax = rets['.SPX'].rolling(window=252).corr(rets['.VIX']).plot(figsize=(10, 6))
 # ax.axhline(rets.corr().iloc[0, 1], c='r')
-ax = rets['.SPX'].rolling(window=252).corr(
-                  rets['.VIX']).plot(figsize=(10, 6))
+ax = pd.DataFrame(rets['.SPX'].rolling(window=252).corr(
+                  rets['.VIX'])).plot(figsize=(10, 6))  # 要把Series Class转变为Data Frame Class，否则plot会报错
+print(type(ax))
 ax.axhline(rets.corr().iloc[0, 1], c='r')
 plt.savefig(fig_path+'fts_13.png')
 plt.show()
