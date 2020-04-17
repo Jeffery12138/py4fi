@@ -82,6 +82,8 @@ df[['No1', 'No2', 'No3', 'No4', 'No5']].cumsum().plot(figsize=(10, 6))
 plt.savefig(fig_path+'io_04.png')
 plt.show()
 
+con.close()
+
 
 
 

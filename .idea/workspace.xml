@@ -3,13 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="23b2e3a4-266f-4767-8c6b-aa2caad6999f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ch09/Basic I&amp;O with Python.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ch09/Reading and Writing Text Files.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ch09/Working with SQL Databases.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ch09/Writing and Reading Numpy Arrays.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ch09/data/data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ch09/data/data.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ch09/data/numbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ch09/I&amp;O with pandas/Working with SQL Databases.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ch09/I&amp;O with pandas/Working with SQL Databases.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +33,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Working with SQL Databases (1)">
-    <configuration name="Basic I&amp;O with Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Fast I&amp;O with PyTables">
+    <configuration name="Fast I&amp;O with PyTables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py4fi2nd-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +42,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ch09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ch09/I&amp;O with Pytables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ch09/Basic I&amp;O with Python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ch09/I&amp;O with Pytables/Fast I&amp;O with PyTables.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Fast I&amp;O with PyTables" />
         <item itemvalue="Python.Working with SQL Databases (1)" />
         <item itemvalue="Python.Writing and Reading Numpy Arrays" />
         <item itemvalue="Python.Working with SQL Databases" />
         <item itemvalue="Python.Reading and Writing Text Files" />
-        <item itemvalue="Python.Basic I&amp;O with Python" />
       </list>
     </recent_temporary>
   </component>
@@ -173,22 +167,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="423" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587047896802" />
-    <state width="1345" height="207" key="GridCell.Tab.0.bottom" timestamp="1587049179127">
+    <state width="1345" height="2" key="GridCell.Tab.0.bottom" timestamp="1587127162597">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587049179127" />
-    <state width="1345" height="207" key="GridCell.Tab.0.center" timestamp="1587049179126">
+    <state width="1345" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587127162597" />
+    <state width="1345" height="2" key="GridCell.Tab.0.center" timestamp="1587127162597">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="207" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587049179126" />
-    <state width="1345" height="207" key="GridCell.Tab.0.left" timestamp="1587049179126">
+    <state width="1345" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587127162597" />
+    <state width="1345" height="2" key="GridCell.Tab.0.left" timestamp="1587127162596">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="207" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587049179126" />
-    <state width="1345" height="207" key="GridCell.Tab.0.right" timestamp="1587049179127">
+    <state width="1345" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587127162596" />
+    <state width="1345" height="2" key="GridCell.Tab.0.right" timestamp="1587127162597">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="207" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587049179126" />
+    <state width="1345" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587127162597" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1586698250762">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
