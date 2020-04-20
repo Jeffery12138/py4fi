@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23b2e3a4-266f-4767-8c6b-aa2caad6999f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ch09/I&amp;O with Pytables/Fast I&amp;O with PyTables.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ch09/I&amp;O with Pytables/Fast I&amp;O with PyTables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ch09/I&amp;O with Pytables/data/pytab.h5" beforeDir="false" afterPath="$PROJECT_DIR$/code/ch09/I&amp;O with Pytables/data/pytab.h5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ch09/I&amp;O with Pytables/data/pytabc.h5" beforeDir="false" afterPath="$PROJECT_DIR$/code/ch09/I&amp;O with Pytables/data/pytabc.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ch11/11_math_tools.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/ch11/11_math_tools.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
